@@ -922,7 +922,7 @@
                 }]
         }, 
         {
-         "backgroundcolor":"#00ffffff",
+         "backgroundcolor":"#00000000",
          "columns":16,
          "firstgid":321,
          "image":"Sir_Henrys_32x32.png",
@@ -930,6 +930,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"32x32",
+         "objectalignment":"center",
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
