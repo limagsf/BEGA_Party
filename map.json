@@ -922,6 +922,7 @@
                 }]
         }, 
         {
+         "backgroundcolor":"#00ffffff",
          "columns":16,
          "firstgid":321,
          "image":"Sir_Henrys_32x32.png",
