@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json#brami"
+                 "value":"..\/plees.json#brami"
                 }],
          "type":"tilelayer",
          "visible":true,
