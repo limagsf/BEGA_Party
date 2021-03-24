@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/Brami\/brami.json"
+                 "value":".\/tavers\/tavern.json"
                 }],
          "type":"tilelayer",
          "visible":true,
