@@ -186,7 +186,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/gcx_party\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -217,7 +217,7 @@
         {
          "columns":15,
          "firstgid":65,
-         "image":"..\/gcx_party\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -231,7 +231,7 @@
         {
          "columns":16,
          "firstgid":2060,
-         "image":"..\/gcx_party\/Sir_Henrys_32x32.png",
+         "image":"Sir_Henrys_32x32.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -245,7 +245,7 @@
         {
          "columns":32,
          "firstgid":2316,
-         "image":"..\/gcx_party\/terrain.png",
+         "image":"terrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -255,6 +255,21 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#1a1a1a"
+        }, 
+        {
+         "columns":16,
+         "firstgid":3340,
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "objectalignment":"center",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
